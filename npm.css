@@ -1,0 +1,130 @@
+.nav-bar ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.nav-bar ul li {
+    margin: 0 20px;
+
+}
+
+header>div {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+}
+
+#company {
+    display: flex;
+    justify-content: center;
+}
+
+#company-text {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.section1>p {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section1>h3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.break {
+    display: block;
+}
+
+.section2>h4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.section2>p {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.section12 {
+    background-image: image-set();
+
+}
+
+.section3>h2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.section3>p {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.section2>a {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.class {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#footer {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+#help {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+#about {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+#Terms {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.break {
+    display: block;
+}
+
+.four {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+}
